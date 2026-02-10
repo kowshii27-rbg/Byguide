@@ -11,12 +11,12 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ByGuide",
-  description:
-    "ByGuide is a curated review blog for students and young professionals, featuring tech gadgets, desk setups, and productivity tools.",
-  metadataBase: new URL("https://byguide.example"), // replace with real domain when ready
+  title: "ByGuide – Study Smarter, Work Sharper",
+  description: "ByGuide is a curated review blog...",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
