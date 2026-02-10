@@ -13,9 +13,6 @@ export default async function Home() {
     <main aria-labelledby="hero-title" className="space-y-12">
       <section className="grid gap-10 lg:grid-cols-[3fr,2fr] lg:items-center">
         <div className="space-y-6">
-          <p className="text-xs font-medium uppercase tracking-[0.2em] text-zinc-500">
-            Study smarter, not harder
-          </p>
           <h1
             id="hero-title"
             className="text-balance text-4xl font-semibold tracking-tight text-zinc-900 sm:text-5xl"

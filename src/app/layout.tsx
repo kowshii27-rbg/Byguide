@@ -34,9 +34,6 @@ export default function RootLayout({
                 <span className="text-lg font-semibold tracking-tight">
                   ByGuide
                 </span>
-                <span className="hidden text-xs text-zinc-500 sm:inline">
-                  Study smarter. Work sharper.
-                </span>
               </div>
               <nav
                 aria-label="Primary"
