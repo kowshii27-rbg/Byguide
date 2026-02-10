@@ -1,3 +1,5 @@
+ "use client";
+
 import Image from "next/image";
 import { ArrowUpRight, CheckCircle2, Info, XCircle } from "lucide-react";
 import type { ProductReviewContent } from "@/lib/types";
