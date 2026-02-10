@@ -39,7 +39,7 @@ export function ProductReview({ review }: ProductReviewProps) {
 
           <div className="flex flex-wrap items-center gap-4">
             <Button
-              asChild={false}
+              //asChild={false}
               type="button"
               className="shadow-sm"
               aria-label="Check price on Amazon (opens in a new tab)"
