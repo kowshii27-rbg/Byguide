@@ -69,9 +69,6 @@ export default async function Home() {
             >
               Latest product reviews
             </h2>
-            <p className="mt-1 text-xs text-zinc-600">
-              Fresh reviews you&apos;ve added from the ByGuide admin dashboard.
-            </p>
           </div>
         </div>
 
